@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 6 |
+| 16 | 7 |
 
 ---
 
@@ -14,9 +14,10 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (4)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (11)
-- [math](#math) (3)
+- [math](#math) (4)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (5)
 
 ---
@@ -42,6 +43,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
 ### implementation
 
@@ -66,6 +68,13 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
 ### strings
 
