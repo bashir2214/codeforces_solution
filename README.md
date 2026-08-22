@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [greedy](#greedy) (2)
+- [implementation](#implementation) (1)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 
@@ -24,6 +25,12 @@
 |---|---------|------------|----------|
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 
 ### math
 
