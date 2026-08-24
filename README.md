@@ -6,22 +6,44 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [graph matchings](#graph-matchings) (1)
+- [implementation](#implementation) (2)
+- [shortest paths](#shortest-paths) (1)
 - [strings](#strings) (1)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 
 ### strings
 
