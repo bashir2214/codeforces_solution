@@ -6,29 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 8 |
+| 1 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
-- [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (3)
-- [math](#math) (1)
-- [shortest paths](#shortest-paths) (1)
-- [strings](#strings) (1)
+- [greedy](#greedy) (1)
 
 ---
-
-### constructive algorithms
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
-| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
 
 ### dp
 
@@ -36,44 +23,11 @@
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 
-### graph matchings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
-
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
-
-### implementation
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
-| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
-| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
-
-### math
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
-
-### shortest paths
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
-
-### strings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 
 ---
 
