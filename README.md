@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 3 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [dp](#dp) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 
 ---
 
@@ -34,6 +34,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.cpp) |
 
 ---
