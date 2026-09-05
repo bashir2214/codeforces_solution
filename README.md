@@ -6,18 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
-- [math](#math) (1)
+- [math](#math) (2)
+- [ternary search](#ternary-search) (1)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 
 ### dp
 
@@ -43,6 +51,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
+
+### ternary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 
 ---
 
