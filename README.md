@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 9 |
+| 8 | 10 |
 
 ---
 
@@ -18,6 +18,7 @@
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (4)
 - [math](#math) (3)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 - [ternary search](#ternary-search) (1)
@@ -64,6 +65,12 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/bashir2214/codeforces_solution/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 
 ### sortings
 
